@@ -1,0 +1,66 @@
+{
+    "version": "1.0",
+    "minecraft_version": "1.12.2",
+    "files": [
+        {
+            "path": "mods/cardinal-components-api-7.0.0-beta.1.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/cardinal-components-api-7.0.0-beta.1.jar",
+            "hash": "4b838397fcfb5324e260023a4f545ca2a7201656",
+            "size": 240626
+        },
+        {
+            "path": "mods/fabric-api-0.136.1+1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/fabric-api-0.136.1+1.21.8.jar",
+            "hash": "56a377bdbf4d83a90d6863ca91b4776f7f09a46b",
+            "size": 2269700
+        },
+        {
+            "path": "mods/iris-fabric-1.9.6+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/iris-fabric-1.9.6+mc1.21.8.jar",
+            "hash": "70fc97aa5eef2df2085a078ecb17d6bfce6756dd",
+            "size": 2742813
+        },
+        {
+            "path": "mods/modmenu-15.0.0.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/modmenu-15.0.0.jar",
+            "hash": "b22a1a02a13642ec707d01bb8b14a21188d6d6fa",
+            "size": 1083202
+        },
+        {
+            "path": "mods/placeholder-api-2.7.2+1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/placeholder-api-2.7.2+1.21.8.jar",
+            "hash": "f538eec8d6ec2e1af3c9e8ee73e4a4787abcd9cc",
+            "size": 263060
+        },
+        {
+            "path": "mods/PlayerChains-1.1.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/PlayerChains-1.1.jar",
+            "hash": "2ddbcf100263e6a9b5f8a8663da2c79204617299",
+            "size": 37780
+        },
+        {
+            "path": "mods/skinrestorer-2.4.3+1.21.6-fabric.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/skinrestorer-2.4.3+1.21.6-fabric.jar",
+            "hash": "5f06fe1a76a1e820d76742b8aacb6263d88b1eaa",
+            "size": 192517
+        },
+        {
+            "path": "mods/sodium-fabric-0.7.3+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/sodium-fabric-0.7.3+mc1.21.8.jar",
+            "hash": "c9ed2b00385ea191e81ea4da51c008755fe90a26",
+            "size": 1621285
+        },
+        {
+            "path": "mods/xaerominimap-fabric-1.21.8-25.3.5.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/xaerominimap-fabric-1.21.8-25.3.5.jar",
+            "hash": "f8a31fae8a78a1628f395452696c63a829fe06c6",
+            "size": 2126379
+        },
+        {
+            "path": "mods/xaeroworldmap-fabric-1.21.8-1.40.6.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/xaeroworldmap-fabric-1.21.8-1.40.6.jar",
+            "hash": "96c04db53153864666c2a0f75682721a76407206",
+            "size": 1426000
+        }
+    ]
+}
