@@ -119,6 +119,11 @@
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
             "hash": "2b8d12369471b57bfa6426254b2170bc8e6b3b88"
+        },
+        {
+            "path": "mods/xaeroworldmap-fabric-1.21.8-1.40.6.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/xaeroworldmap-fabric-1.21.8-1.40.6.jar",
+            "hash": "96c04db53153864666c2a0f75682721a76407206"
         }
     ]
 }
