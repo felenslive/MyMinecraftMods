@@ -58,7 +58,7 @@
         {
             "path": "config/iris.properties",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/iris.properties",
-            "hash": "730d632c97acf19da93fd54c5549eaab3af438a0"
+            "hash": "0f9787351cb89838679a634e839f1a539abb5814"
         },
         {
             "path": "config/modmenu.json",
@@ -93,7 +93,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/fabric/indigo-renderer.properties",
-            "hash": "39da52a740283012b0a098edb96aa1c26af27c86"
+            "hash": "122e711b5a0e6a0eea473efe06dcda024f4c3dc7"
         },
         {
             "path": "config/skinrestorer/config.json",
