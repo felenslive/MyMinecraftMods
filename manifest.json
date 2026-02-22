@@ -58,7 +58,7 @@
         {
             "path": "config/iris.properties",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/iris.properties",
-            "hash": "0f9787351cb89838679a634e839f1a539abb5814"
+            "hash": "b7ee1b98fba9afe95099b69feb3e0e679be76633"
         },
         {
             "path": "config/modmenu.json",
@@ -93,7 +93,7 @@
         {
             "path": "config/fabric/indigo-renderer.properties",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/fabric/indigo-renderer.properties",
-            "hash": "122e711b5a0e6a0eea473efe06dcda024f4c3dc7"
+            "hash": "ba4e0310ecc1eb1adb3a263d2544768e496f0878"
         },
         {
             "path": "config/skinrestorer/config.json",
@@ -133,7 +133,7 @@
         {
             "path": "CustomSkinLoader/CustomSkinLoader.json",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/CustomSkinLoader/CustomSkinLoader.json",
-            "hash": "ededa4cd2e417d012be53af1c52373cd6c8782be"
+            "hash": "5acf8a99a0aa0d6e7202e6f5a9b2335347adb75e"
         }
     ]
 }
