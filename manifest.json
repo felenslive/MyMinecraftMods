@@ -129,6 +129,11 @@
             "path": "mods/CustomSkinLoader_Fabric-14.27.jar",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/CustomSkinLoader_Fabric-14.27.jar",
             "hash": "1d6739052adf3115dd134a9c7f84fe1319ff2687"
+        },
+        {
+            "path": "CustomSkinLoader/CustomSkinLoader.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/CustomSkinLoader/CustomSkinLoader.json",
+            "hash": "ededa4cd2e417d012be53af1c52373cd6c8782be"
         }
     ]
 }
