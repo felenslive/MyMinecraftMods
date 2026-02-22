@@ -124,6 +124,11 @@
             "path": "mods/xaeroworldmap-fabric-1.21.8-1.40.6.jar",
             "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/xaeroworldmap-fabric-1.21.8-1.40.6.jar",
             "hash": "96c04db53153864666c2a0f75682721a76407206"
+        },
+        {
+            "path": "mods/CustomSkinLoader_Fabric-14.27.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/CustomSkinLoader_Fabric-14.27.jar",
+            "hash": "1d6739052adf3115dd134a9c7f84fe1319ff2687"
         }
     ]
 }
