@@ -1,0 +1,124 @@
+{
+    "files": [
+        {
+            "path": "mods/cardinal-components-api-7.0.0-beta.1.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/cardinal-components-api-7.0.0-beta.1.jar",
+            "hash": "4b838397fcfb5324e260023a4f545ca2a7201656"
+        },
+        {
+            "path": "mods/fabric-api-0.136.1+1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/fabric-api-0.136.1+1.21.8.jar",
+            "hash": "56a377bdbf4d83a90d6863ca91b4776f7f09a46b"
+        },
+        {
+            "path": "mods/iris-fabric-1.9.6+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/iris-fabric-1.9.6+mc1.21.8.jar",
+            "hash": "70fc97aa5eef2df2085a078ecb17d6bfce6756dd"
+        },
+        {
+            "path": "mods/modmenu-15.0.0.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/modmenu-15.0.0.jar",
+            "hash": "b22a1a02a13642ec707d01bb8b14a21188d6d6fa"
+        },
+        {
+            "path": "mods/placeholder-api-2.7.2+1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/placeholder-api-2.7.2+1.21.8.jar",
+            "hash": "f538eec8d6ec2e1af3c9e8ee73e4a4787abcd9cc"
+        },
+        {
+            "path": "mods/PlayerChains-1.1.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/PlayerChains-1.1.jar",
+            "hash": "2ddbcf100263e6a9b5f8a8663da2c79204617299"
+        },
+        {
+            "path": "mods/skinrestorer-2.4.3+1.21.6-fabric.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/skinrestorer-2.4.3+1.21.6-fabric.jar",
+            "hash": "5f06fe1a76a1e820d76742b8aacb6263d88b1eaa"
+        },
+        {
+            "path": "mods/sodium-fabric-0.7.3+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/sodium-fabric-0.7.3+mc1.21.8.jar",
+            "hash": "c9ed2b00385ea191e81ea4da51c008755fe90a26"
+        },
+        {
+            "path": "mods/xaerominimap-fabric-1.21.8-25.3.5.jar",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/mods/xaerominimap-fabric-1.21.8-25.3.5.jar",
+            "hash": "f8a31fae8a78a1628f395452696c63a829fe06c6"
+        },
+        {
+            "path": "config/cardinal-components-api.properties",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/cardinal-components-api.properties",
+            "hash": "0034d877ec2ea3155efaf54db8549db1e094f003"
+        },
+        {
+            "path": "config/iris-excluded.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/iris-excluded.json",
+            "hash": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
+        },
+        {
+            "path": "config/iris.properties",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/iris.properties",
+            "hash": "730d632c97acf19da93fd54c5549eaab3af438a0"
+        },
+        {
+            "path": "config/modmenu.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/modmenu.json",
+            "hash": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f"
+        },
+        {
+            "path": "config/sodium-fingerprint.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/sodium-fingerprint.json",
+            "hash": "17d258ad6e0f90d829cb6ea89ac65b8bb48e57a5"
+        },
+        {
+            "path": "config/sodium-mixins.properties",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/sodium-mixins.properties",
+            "hash": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+        },
+        {
+            "path": "config/sodium-options.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/sodium-options.json",
+            "hash": "183d0390fbec3d7abc53aeade8efa51ff3a78fa1"
+        },
+        {
+            "path": "config/xaerohud.txt",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/xaerohud.txt",
+            "hash": "9b2b47ea69e26908152d7ed1c6f90222745dced0"
+        },
+        {
+            "path": "config/xaeropatreon.txt",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/xaeropatreon.txt",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        },
+        {
+            "path": "config/fabric/indigo-renderer.properties",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/fabric/indigo-renderer.properties",
+            "hash": "39da52a740283012b0a098edb96aa1c26af27c86"
+        },
+        {
+            "path": "config/skinrestorer/config.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/skinrestorer/config.json",
+            "hash": "9c7f1878e3976058a07fe1db18bba5fa2a7e50d0"
+        },
+        {
+            "path": "config/skinrestorer/mojang_profile_cache.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/skinrestorer/mojang_profile_cache.json",
+            "hash": "a2e22008061985671f8aec5e0a8ad4be4fa4c14a"
+        },
+        {
+            "path": "config/xaero/minimap/default_radar_categories_client.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/xaero/minimap/default_radar_categories_client.json",
+            "hash": "e058f3dfac7d6a3441196628f1aa93616721ecce"
+        },
+        {
+            "path": "config/xaero/minimap/default_radar_categories_server.json",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/xaero/minimap/default_radar_categories_server.json",
+            "hash": "c247867b018103357eb4015059fe209cc562de51"
+        },
+        {
+            "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "url": "https://raw.githubusercontent.com/felenslive/MyMinecraftMods/main/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "hash": "2b8d12369471b57bfa6426254b2170bc8e6b3b88"
+        }
+    ]
+}
