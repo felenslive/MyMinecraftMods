@@ -1,0 +1,20 @@
+{
+  "version": "14.13",
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "ignoreHttpsCertificate": false,
+  "forceLoadAllTextures": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false,
+  "loadlist": [
+    {
+      "name": "PSIX GitHub Skins",
+      "type": "CustomSkinAPI",
+      "root": "https://raw.githubusercontent.com/felenslive/PsixSkins/main/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI"
+    }
+  ]
+}
