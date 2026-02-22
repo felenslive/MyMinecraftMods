@@ -62,5 +62,8 @@
             "hash": "96c04db53153864666c2a0f75682721a76407206",
             "size": 1426000
         }
-    ]
+    ],
+    "instance.json": "fac628487a00247379f372197b4af4f398aaebf8a4b92840b652dfcb3d4e0a50",
+    "options.txt": "5ec4880a110ef299b92937b5fe52a683d2686f813ba02f2135f53cd126a6b429",
+    "usercache.json": "e8b2bcf477782a2584cfda0b6b5e130f0fb12f5861dc987495a7970a1616b69c"
 }
