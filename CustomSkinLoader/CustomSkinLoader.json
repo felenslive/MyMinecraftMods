@@ -1,11 +1,6 @@
 {
-  "version": "14.13",
-  "enableDynamicSkull": true,
-  "enableTransparentSkin": true,
-  "ignoreHttpsCertificate": false,
-  "forceLoadAllTextures": false,
-  "enableLocalProfileCache": false,
-  "enableCacheAutoClean": false,
+  "version": "14.27",
+  "buildNumber": 37,
   "loadlist": [
     {
       "name": "PSIX GitHub Skins",
@@ -14,7 +9,20 @@
     },
     {
       "name": "Mojang",
-      "type": "MojangAPI"
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
     }
-  ]
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "threadPoolSize": 8,
+  "enableLogStdOut": false,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false,
+  "forceDisableCache": false
 }
